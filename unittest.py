@@ -1,5 +1,5 @@
 import unittest
-from main import bubble_sort, binary_sort
+from sorting import bubble_sort, binary_sort
 
 class TestSortingAlgorithms(unittest.TestCase):
 
